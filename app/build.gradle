@@ -60,11 +60,6 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.10.1'
     implementation "io.ktor:ktor-serialization-gson:$ktor_version"
 
-//    //Kodein
-//    def kodein_version = "7.18.0"
-//    implementation("org.kodein.di:kodein-di:$kodein_version")
-//    implementation("org.kodein.di:kodein-di-framework-android-x-viewmodel:$kodein_version")
-//    implementation("org.kodein.di:kodein-di-framework-compose:$kodein_version")
 
     //Koin
     def koin_android_version = "3.3.2"
